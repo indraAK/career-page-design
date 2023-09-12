@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dave Bryson",
+    "occupation": "Product Design Manager",
+    "image": "/images/employes/dave.jpg",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore autem totam perspiciatis culpa ad explicabo."
+  },
+  {
+    "name": "Ben Hadley",
+    "occupation": "Frontend Engineer",
+    "image": "/images/employes/ben.jpg",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore autem totam perspiciatis culpa ad explicabo."
+  },
+  {
+    "name": "Steve Miller",
+    "occupation": "Data Analyst",
+    "image": "/images/employes/steve.jpg",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore autem totam perspiciatis culpa ad explicabo."
+  },
+  {
+    "name": "Hannah Smith",
+    "occupation": "Head of Technology",
+    "image": "/images/employes/hannah.jpg",
+    "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore autem totam perspiciatis culpa ad explicabo."
+  }
+]
